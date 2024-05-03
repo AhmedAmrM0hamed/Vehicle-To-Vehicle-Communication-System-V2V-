@@ -1,0 +1,6 @@
+../Core/Src/Sys_init.c:20:6:Error_Handler	1
+../Core/Src/Sys_init.c:35:6:SystemClock_Config	3
+../Core/Src/Sys_init.c:75:6:MX_SPI1_Init	2
+../Core/Src/Sys_init.c:112:6:MX_TIM1_Init	8
+../Core/Src/Sys_init.c:191:6:MX_USART1_UART_Init	2
+../Core/Src/Sys_init.c:224:6:MX_GPIO_Init	1
